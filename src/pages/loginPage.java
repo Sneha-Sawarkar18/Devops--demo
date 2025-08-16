@@ -9,4 +9,9 @@ public class loginPage {
 		System.out.println(" login to page");
 	}
        
+	public void enterUsername()
+	{
+		System.out.println(" login to page");
+	}
+       
 }
